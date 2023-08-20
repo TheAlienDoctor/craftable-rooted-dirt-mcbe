@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rCraft rooted dirt with roots and dirt | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien's§r §eCraftable Rooted Dirt §4(BP-V1.0.0)§r",
+		"uuid": "7a560041-80fa-47ce-b5f2-cffbdcde41ad",
 		"version": [
 			1,
 			0,
@@ -17,9 +17,9 @@
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rCraft rooted dirt with roots and dirt | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "data",
+			"uuid": "da1f46f1-6a1f-4110-a370-3dece4c55df5",
 			"version": [
 				1,
 				0,
