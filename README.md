@@ -1,6 +1,6 @@
-# Pack name
+# Craftable Rooted Dirt Behaviour Pack
 ## Information
-This pack does many many cool things
+This pack allowes you to craft rooted dirt, using the same crafting recipe as coarse dirt, but with hanging roots instead of flint and steal.
 ## Download
 You can download this pack from my website: https://TheAlienDoctor.com <br>
 You can also view the changelog, showcase video and any other information there.
